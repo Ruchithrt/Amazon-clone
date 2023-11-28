@@ -15,7 +15,7 @@
 <p>Multiple boxes with similar layouts, as seen on the Amazon homepage, are meticulously designed. This step involves careful consideration of spacing, alignment, and responsiveness to mirror the structure of Amazon's product listings.</p><br>
 
 <h4>5. Amazon Web Page Clone</h4><br>
-<p>Culminating in the creation of a complete Amazon web page clone, this project stands as a testament to the capabilities of HTML and CSS. The result is a visually stunning and functional replica of Amazon's homepage, showcasing the potential of frontend development skills.</p>
+<p>Culminating in the creation of a complete Amazon web page clone, this project stands as a testament to the capabilities of HTML and CSS. The result is a visually stunning and functional replica of Amazon's homepage, showcasing the potential of frontend development skills.</p><br><br>
 
 
 <h3>How to Run:</h3>
