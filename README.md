@@ -20,6 +20,7 @@
 
 
 <h3>Demo video</h3>
+https://github.com/Ruchithrt/Amazon-clone/assets/83587252/9055430a-2cde-4e83-be46-16c5226f0977
 
 
 
