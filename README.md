@@ -20,7 +20,9 @@
 
 
 <h3>Demo video</h3>
-https://github.com/Ruchithrt/Amazon-clone/assets/83587252/e2714139-52e5-4161-888d-ccddb3f17ddc
+https://github.com/Ruchithrt/Amazon-clone/assets/83587252/a5386ce1-83f7-4af1-8c6f-af3bcd443f17
+
+
 
 
 <h3>How to Run:</h3>
