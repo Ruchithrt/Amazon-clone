@@ -20,7 +20,7 @@
 <img src="https://github.com/Ruchithrt/Amazon-clone/assets/83587252/21d68379-fc6d-4d0f-8069-4290a6783ba7">
 
 <h3>Demo video</h3>
-<video src="https://github.com/Ruchithrt/Amazon-clone/assets/83587252/9055430a-2cde-4e83-be46-16c5226f0977">
+<video src="https://github.com/Ruchithrt/Amazon-clone/assets/83587252/786670cd-cdb0-482d-8627-a2e6feb0810c">
 
 
 
