@@ -22,8 +22,5 @@
 <h3>Demo video</h3>
 <video src="https://github.com/Ruchithrt/Amazon-clone/assets/83587252/786670cd-cdb0-482d-8627-a2e6feb0810c">
 
-
-
-
 <h3>How to Run:</h3>
 <p>Clone the repository to your local machine:https://github.com/Ruchithrt/Amazon-clone.git</p>
