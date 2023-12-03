@@ -17,10 +17,12 @@
 <h3>How to Run:</h3>
 <p>Clone the repository to your local machine:https://github.com/Ruchithrt/Amazon-clone.git</p>
 
+<br><br>
+
 <h3> Static view of website </h3>
 <img src="https://github.com/Ruchithrt/Amazon-clone/assets/83587252/945963e4-bb03-41ad-881f-83b95ff05b2f">
 <img src="https://github.com/Ruchithrt/Amazon-clone/assets/83587252/21d68379-fc6d-4d0f-8069-4290a6783ba7">
-
+<br><br>
 <h3>Demo video</h3>
 <video src="https://github.com/Ruchithrt/Amazon-clone/assets/83587252/786670cd-cdb0-482d-8627-a2e6feb0810c">
 
