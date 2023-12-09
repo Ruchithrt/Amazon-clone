@@ -13,6 +13,8 @@
 <h4>5. Amazon Web Page Clone</h4>
 <p>Culminating in the creation of a complete Amazon web page clone, this project stands as a testament to the capabilities of HTML and CSS. The result is a visually stunning and functional replica of Amazon's homepage, showcasing the potential of frontend development skills.</p><br><br>
 <hr>
+
+
 ## Installation
 1. Clone the repository: `https://github.com/Ruchithrt/Amazon-clone.git`
 2. Navigate to the project directory: `cd Amazon-clone`
