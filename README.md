@@ -1,6 +1,5 @@
 <h1>Amazon Homepage Clone Project</h1>
 <p>This project is a meticulous CSS-based clone of Amazon's homepage, developed using HTML and CSS. The endeavor involved a step-by-step process to recreate the distinct elements and styling found on the official Amazon website.</p>
-<br><br>
 <hr>
 <h3>Project Flow:</h3>
 <h4>1. Navbar Design</h4>
@@ -13,7 +12,7 @@
 <p>Multiple boxes with similar layouts, as seen on the Amazon homepage, are meticulously designed. This step involves careful consideration of spacing, alignment, and responsiveness to mirror the structure of Amazon's product listings.</p>
 <h4>5. Amazon Web Page Clone</h4>
 <p>Culminating in the creation of a complete Amazon web page clone, this project stands as a testament to the capabilities of HTML and CSS. The result is a visually stunning and functional replica of Amazon's homepage, showcasing the potential of frontend development skills.</p><br><br>
-
+<hr>
 ## Installation
 1. Clone the repository: `https://github.com/Ruchithrt/Amazon-clone.git`
 2. Navigate to the project directory: `cd Amazon-clone`
