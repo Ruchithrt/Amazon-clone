@@ -1,7 +1,7 @@
 <h1>Amazon Homepage Clone Project</h1>
 <p>This project is a meticulous CSS-based clone of Amazon's homepage, developed using HTML and CSS. The endeavor involved a step-by-step process to recreate the distinct elements and styling found on the official Amazon website.</p>
 <hr>
-<h3>Project Flow:</h3>
+##Project Flow:
 <h4>1. Navbar Design</h4>
 <p>The journey begins with crafting a responsive navigation bar, featuring a prominent logo and an address section to emulate the familiar Amazon layout. The attention to detail extends to the design of the search panel, replicating the iconic Amazon search bar with precision.</p>
 <h4>2. Stylish NavBar</h4>
@@ -15,7 +15,7 @@
 <hr>
 
 
-## Installation
+## Installation:
 1. Clone the repository: `https://github.com/Ruchithrt/Amazon-clone.git`
 2. Navigate to the project directory: `cd Amazon-clone`
 3. Open `index.html` in your preferred web browser.
@@ -23,11 +23,11 @@
 
 <br><br>
 
-<h3> Static view of website </h3>
+##Static view of website:
 <img src="https://github.com/Ruchithrt/Amazon-clone/assets/83587252/945963e4-bb03-41ad-881f-83b95ff05b2f">
 <img src="https://github.com/Ruchithrt/Amazon-clone/assets/83587252/21d68379-fc6d-4d0f-8069-4290a6783ba7">
 <br><br>
-<h3>Demo video</h3>
+##Demo video:
 <video src="https://github.com/Ruchithrt/Amazon-clone/assets/83587252/786670cd-cdb0-482d-8627-a2e6feb0810c">
 
 
